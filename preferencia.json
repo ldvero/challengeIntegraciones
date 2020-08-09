@@ -1,0 +1,81 @@
+{   
+
+   "additional_info": "",
+    "auto_return": "",
+    "back_urls": {
+        "failure": "www.mercadopago.com/fail",
+        "pending": "www.mercadopago.com/pending",
+        "success": "www.mercadopago.com/success"
+    },
+    "client_id": "963",
+    "collector_id": 191657177,
+    "date_created": "2016-12-26T14:51:59.452-04:00",
+    "expiration_date_from": "2016-12-26T14:51:59.452-04:00",
+    "expiration_date_to": "2016-12-26T15:51:59.452-04:00",
+    "expires": true,
+    "external_reference": "ORDEN: ABCDE12345",
+    "id": "191657177-48f2a32f-836c-431c-957a-ee9cc6ca5a85",
+    "init_point": "https://www.mercadopago.com/mla/checkout/start?pref_id=191657177-48f2a32f-836c-431c-957a-ee9cc6ca5a85",
+    "items": [
+      {
+            "category_id": "",
+            "currency_id": "ARS",
+            "description": "",
+            "id": "",
+            "picture_url": "",
+            "quantity": 1,
+            "title": "Pantalon",
+            "unit_price": 10612
+        }
+    ],
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "notification_url": null,
+    "operation_type": "regular_payment",
+    "payer": {
+        "address": {
+            "street_name": "",
+            "street_number": null,
+            "zip_code": ""
+        },
+        "date_created": "",
+        "email": "juancito@gmail.com",
+        "identification": {
+            "number": "22333444",
+            "type": "DNI"
+        },
+        "name": "Juan",
+        "phone": {
+            "area_code": "0351",
+            "number": "123445566"
+        },
+        "surname": "Garcia"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+          {
+                "id": "visa"
+            }
+        ],
+        "excluded_payment_types": [
+          {
+                "id": "ticket"
+            }
+        ]
+    },
+    "sandbox_init_point": "https://sandbox.mercadopago.com/mla/checkout/pay?pref_id=191657177-48f2a32f-836c-431c-957a-ee9cc6ca5a85",
+    "shipments": {
+        "receiver_address": {
+            "apartment": "",
+            "floor": "",
+            "street_name": "",
+            "street_number": null,
+            "zip_code": ""
+        }
+
+}}
+
+
+
