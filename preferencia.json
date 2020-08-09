@@ -3,9 +3,9 @@
    "additional_info": "",
     "auto_return": "",
     "back_urls": {
-        "failure": "www.mercadopago.com/fail",
-        "pending": "www.mercadopago.com/pending",
-        "success": "www.mercadopago.com/success"
+        "failure": "www.mnercadopago.com/fail",
+        "pending": "www.mnercadopago.com/pending",
+        "success": "www.mnercadopago.com/success"
     },
     "client_id": "963",
     "collector_id": 191657177,
